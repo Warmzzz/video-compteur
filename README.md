@@ -1,4 +1,4 @@
-# TUTO JAVASCIPT - FAIRE UN COMPTEUR
+# __TUTO JAVASCIPT - FAIRE UN COMPTEUR__
 
 - ## Pour lancer la page tu dois ouvrir le fichier [__*index.html*__](https://github.com/Warmzzz/video-compteur/blob/main/index.html)
 
